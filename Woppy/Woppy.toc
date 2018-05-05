@@ -1,0 +1,6 @@
+## Interface: 60002
+## Title: Woppy
+## Author: Julien Richoz
+## Version: 1.0
+
+main.lua
